@@ -28,4 +28,5 @@ A GUI is also provided to visulize the model. Before running ```executive.py```,
 rosrun robot_sim cartpole_gui.py
 ```
 
+![cartpole system](https://github.com/zyx124/cartpole_RL/blob/master/cartpole_system.png)
 
